@@ -1,6 +1,6 @@
 {
   "name": "ellipsis-pagination",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an utility for frontend to generate pagination with ellipsis ",
   "main": "index.js",
   "scripts": {
