@@ -1,0 +1,24 @@
+{
+  "name": "ellipsis-pagination",
+  "version": "1.0.0",
+  "description": "an utility for frontend to generate pagination with ellipsis ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanyong91/ellipsis-pagination.git"
+  },
+  "keywords": [
+    "pagination",
+    "ellipsis pagination",
+    "truncate pagination"
+  ],
+  "author": "Alan Yong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanyong91/ellipsis-pagination/issues"
+  },
+  "homepage": "https://github.com/alanyong91/ellipsis-pagination#readme"
+}
